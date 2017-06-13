@@ -1,6 +1,6 @@
-## Table
+## Product price
 
 | Id | Name | Price
 |----|------|------
-| 1  | Box  | 100
-| 2  | Bag  | 200
+| 1  | Box  | 500
+| 2  | Bag  | 600
